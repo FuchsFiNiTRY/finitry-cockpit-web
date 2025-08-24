@@ -51407,8 +51407,10 @@ break}++n}k=p==null||p.toLowerCase()===q.toLowerCase()
 o="Familie "+q
 if(k)return o
 else return o+" & "+A.p(p)}return B.n.bP(this.gJn()," & ")},
-rK(a){if(a==null)return 0
-return 0},
+rK(a){var s
+if(a==null)return 0
+s=a.a
+return s},
 abo(e2,e3,e4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5=null,c6=3718648,c7=3462041,c8=e2.a.cx,c9=c8.b,d0=c9*0.8938775510204081,d1=c9*0.0653061224489796,d2=d0/876,d3=1600*d2,d4=(c8.a-d3)/2,d5=new A.de(0.9,1,1,1),d6=new A.al4(d2),d7=d6.$1(300),d8=d6.$1(124),d9=d6.$1(210),e0=d6.$1(48),e1=d3*0.3
 c8=d7/2
 s=e1+d6.$1(42)+c8
